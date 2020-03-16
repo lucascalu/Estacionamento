@@ -7,4 +7,6 @@
 </p>
 
 ## Desenvolvido por
--Lucas Schiavon calu          
+-Lucas Schiavon calu    
+
+mais informações lucas.calu@outlook.com
